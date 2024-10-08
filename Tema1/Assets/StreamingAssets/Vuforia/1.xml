@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="caietalb" size="0.200000 0.294195" />
+    <ImageTarget name="img3" size="0.100000 0.083163" />
+    <ImageTarget name="pozaimr" size="0.200000 0.269297" />
+  </Tracking>
+</QCARConfig>
