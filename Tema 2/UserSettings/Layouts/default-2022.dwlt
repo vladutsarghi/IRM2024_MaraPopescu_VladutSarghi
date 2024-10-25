@@ -192,8 +192,8 @@ MonoBehaviour:
     y: 0
     width: 291.2
     height: 452.8
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: GameView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -218,15 +218,15 @@ MonoBehaviour:
     y: 0
     width: 705.6
     height: 452.8
-  m_MinSize: {x: 202, y: 221}
+  m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 15}
+  m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 16}
   - {fileID: 15}
   - {fileID: 12}
-  m_Selected: 1
-  m_LastSelected: 2
+  m_Selected: 2
+  m_LastSelected: 1
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -273,8 +273,8 @@ MonoBehaviour:
     y: 0
     width: 539.2
     height: 722.8
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -477,9 +477,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0c650000
-      m_LastClickedID: 25868
-      m_ExpandedIDs: 26fbffff28fbffff5c64000078640000da640000
+      m_SelectedIDs: 38640000
+      m_LastClickedID: 25656
+      m_ExpandedIDs: 26fbffffdc640000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1089,14 +1089,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 36
-  m_LastProjectPath: C:\Users\sargh\My project (4)
+  m_LastProjectPath: C:\Users\sargh\Desktop\IRM2 git\IRM2024_MaraPopescu_VladutSarghi\Tema
+    2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ee6c0000
-    m_LastClickedID: 27886
-    m_ExpandedIDs: 00000000ee6c0000f06c0000f26c0000f46c0000f66c0000f86c0000fa6c0000fc6c000000ca9a3b
+    m_SelectedIDs: f46c0000
+    m_LastClickedID: 27892
+    m_ExpandedIDs: 00000000f46c0000f66c0000f86c0000fa6c0000fc6c0000fe6c0000006d0000026d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1124,7 +1125,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 42630000
     m_LastClickedID: 25410
-    m_ExpandedIDs: 00000000ee6c0000f06c0000f26c0000f46c0000f66c0000f86c0000fa6c0000fc6c0000
+    m_ExpandedIDs: 00000000f46c0000f66c0000f86c0000fa6c0000fc6c0000fe6c0000006d0000026d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1151,7 +1152,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300004267000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
